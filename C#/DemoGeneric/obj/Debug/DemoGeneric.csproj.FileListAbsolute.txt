@@ -1,0 +1,6 @@
+E:\C#Program\CSharpFundalmentals\DemoGeneric\bin\Debug\DemoGeneric.exe
+E:\C#Program\CSharpFundalmentals\DemoGeneric\bin\Debug\DemoGeneric.pdb
+E:\C#Program\CSharpFundalmentals\DemoGeneric\obj\Debug\DemoGeneric.csprojAssemblyReference.cache
+E:\C#Program\CSharpFundalmentals\DemoGeneric\obj\Debug\DemoGeneric.csproj.CoreCompileInputs.cache
+E:\C#Program\CSharpFundalmentals\DemoGeneric\obj\Debug\DemoGeneric.exe
+E:\C#Program\CSharpFundalmentals\DemoGeneric\obj\Debug\DemoGeneric.pdb
