@@ -1,0 +1,5 @@
+E:\C#Program\CSharpFundalmentals\LibCore\bin\Debug\LibCore.exe
+E:\C#Program\CSharpFundalmentals\LibCore\bin\Debug\LibCore.pdb
+E:\C#Program\CSharpFundalmentals\LibCore\obj\Debug\LibCore.csproj.CoreCompileInputs.cache
+E:\C#Program\CSharpFundalmentals\LibCore\obj\Debug\LibCore.exe
+E:\C#Program\CSharpFundalmentals\LibCore\obj\Debug\LibCore.pdb
