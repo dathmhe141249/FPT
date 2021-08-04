@@ -1,6 +1,0 @@
-E:\C#Program\CSharpFundalmentals\Excercise\bin\Debug\Excercise.exe
-E:\C#Program\CSharpFundalmentals\Excercise\bin\Debug\Excercise.pdb
-E:\C#Program\CSharpFundalmentals\Excercise\obj\Debug\Excercise.csproj.CoreCompileInputs.cache
-E:\C#Program\CSharpFundalmentals\Excercise\obj\Debug\Excercise.exe
-E:\C#Program\CSharpFundalmentals\Excercise\obj\Debug\Excercise.pdb
-E:\C#Program\CSharpFundalmentals\Excercise\obj\Debug\Excercise.csprojAssemblyReference.cache

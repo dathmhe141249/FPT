@@ -1,6 +1,0 @@
-E:\C#Program\CSharpFundalmentals\InterfaceEx\bin\Debug\InterfaceEx.exe
-E:\C#Program\CSharpFundalmentals\InterfaceEx\bin\Debug\InterfaceEx.pdb
-E:\C#Program\CSharpFundalmentals\InterfaceEx\obj\Debug\InterfaceEx.csproj.CoreCompileInputs.cache
-E:\C#Program\CSharpFundalmentals\InterfaceEx\obj\Debug\InterfaceEx.exe
-E:\C#Program\CSharpFundalmentals\InterfaceEx\obj\Debug\InterfaceEx.pdb
-E:\C#Program\CSharpFundalmentals\InterfaceEx\obj\Debug\InterfaceEx.csprojAssemblyReference.cache

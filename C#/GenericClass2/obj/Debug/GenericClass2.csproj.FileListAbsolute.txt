@@ -1,6 +1,0 @@
-E:\C#Program\CSharpFundalmentals\GenericClass2\bin\Debug\GenericClass2.exe
-E:\C#Program\CSharpFundalmentals\GenericClass2\bin\Debug\GenericClass2.pdb
-E:\C#Program\CSharpFundalmentals\GenericClass2\obj\Debug\GenericClass2.csprojAssemblyReference.cache
-E:\C#Program\CSharpFundalmentals\GenericClass2\obj\Debug\GenericClass2.csproj.CoreCompileInputs.cache
-E:\C#Program\CSharpFundalmentals\GenericClass2\obj\Debug\GenericClass2.exe
-E:\C#Program\CSharpFundalmentals\GenericClass2\obj\Debug\GenericClass2.pdb

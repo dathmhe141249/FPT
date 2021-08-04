@@ -1,6 +1,0 @@
-E:\C#Program\CSharpFundalmentals\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-E:\C#Program\CSharpFundalmentals\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-E:\C#Program\CSharpFundalmentals\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
-E:\C#Program\CSharpFundalmentals\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
-E:\C#Program\CSharpFundalmentals\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-E:\C#Program\CSharpFundalmentals\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

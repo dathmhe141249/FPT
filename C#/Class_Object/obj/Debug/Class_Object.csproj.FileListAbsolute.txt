@@ -1,6 +1,0 @@
-E:\C#Program\CSharpFundalmentals\Class_Object\bin\Debug\Class_Object.exe
-E:\C#Program\CSharpFundalmentals\Class_Object\bin\Debug\Class_Object.pdb
-E:\C#Program\CSharpFundalmentals\Class_Object\obj\Debug\Class_Object.csprojAssemblyReference.cache
-E:\C#Program\CSharpFundalmentals\Class_Object\obj\Debug\Class_Object.csproj.CoreCompileInputs.cache
-E:\C#Program\CSharpFundalmentals\Class_Object\obj\Debug\Class_Object.exe
-E:\C#Program\CSharpFundalmentals\Class_Object\obj\Debug\Class_Object.pdb

@@ -1,6 +1,0 @@
-E:\C#Program\CSharpFundalmentals\Test2_001\bin\Debug\Test2_001.exe
-E:\C#Program\CSharpFundalmentals\Test2_001\bin\Debug\Test2_001.pdb
-E:\C#Program\CSharpFundalmentals\Test2_001\obj\Debug\Test2_001.csproj.CoreCompileInputs.cache
-E:\C#Program\CSharpFundalmentals\Test2_001\obj\Debug\Test2_001.exe
-E:\C#Program\CSharpFundalmentals\Test2_001\obj\Debug\Test2_001.pdb
-E:\C#Program\CSharpFundalmentals\Test2_001\obj\Debug\Test2_001.csprojAssemblyReference.cache
