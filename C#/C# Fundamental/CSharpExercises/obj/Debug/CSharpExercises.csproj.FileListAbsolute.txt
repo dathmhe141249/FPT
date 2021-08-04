@@ -1,0 +1,5 @@
+E:\C#Program\App0\CSharpExercises\bin\Debug\CSharpExercises.exe
+E:\C#Program\App0\CSharpExercises\bin\Debug\CSharpExercises.pdb
+E:\C#Program\App0\CSharpExercises\obj\Debug\CSharpExercises.csproj.CoreCompileInputs.cache
+E:\C#Program\App0\CSharpExercises\obj\Debug\CSharpExercises.exe
+E:\C#Program\App0\CSharpExercises\obj\Debug\CSharpExercises.pdb
