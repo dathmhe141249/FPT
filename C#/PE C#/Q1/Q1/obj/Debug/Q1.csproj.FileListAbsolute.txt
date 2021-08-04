@@ -1,0 +1,5 @@
+E:\C#Program\SamplePE2\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\C#Program\SamplePE2\Q1\Q1\bin\Debug\Q1.exe
+E:\C#Program\SamplePE2\Q1\Q1\bin\Debug\Q1.pdb
+E:\C#Program\SamplePE2\Q1\Q1\obj\Debug\Q1.exe
+E:\C#Program\SamplePE2\Q1\Q1\obj\Debug\Q1.pdb

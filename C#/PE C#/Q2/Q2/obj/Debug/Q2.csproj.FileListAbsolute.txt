@@ -1,0 +1,9 @@
+E:\C#Program\SamplePE2\Q2\Q2\bin\Debug\Q2.exe
+E:\C#Program\SamplePE2\Q2\Q2\bin\Debug\Q2.pdb
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.Form1.resources
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.cache
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.exe
+E:\C#Program\SamplePE2\Q2\Q2\obj\Debug\Q2.pdb
