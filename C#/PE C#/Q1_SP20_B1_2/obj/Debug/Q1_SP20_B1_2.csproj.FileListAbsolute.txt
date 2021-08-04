@@ -1,0 +1,10 @@
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\bin\Debug\Q1_SP20_B1_2.exe.config
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\bin\Debug\Q1_SP20_B1_2.exe
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\bin\Debug\Q1_SP20_B1_2.pdb
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.csproj.AssemblyReference.cache
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.Form1.resources
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.Properties.Resources.resources
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.csproj.GenerateResource.cache
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.csproj.CoreCompileInputs.cache
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.exe
+E:\C#Program\SamplePE1\PESample\Q1_SP20_B1_2\obj\Debug\Q1_SP20_B1_2.pdb
