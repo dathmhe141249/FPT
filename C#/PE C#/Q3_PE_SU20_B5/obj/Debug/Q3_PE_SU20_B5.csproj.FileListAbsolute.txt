@@ -1,0 +1,7 @@
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\bin\Q3_PE_SU20_B5.dll.config
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\bin\Q3_PE_SU20_B5.dll
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\bin\Q3_PE_SU20_B5.pdb
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\obj\Debug\Q3_PE_SU20_B5.csproj.AssemblyReference.cache
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\obj\Debug\Q3_PE_SU20_B5.csproj.CoreCompileInputs.cache
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\obj\Debug\Q3_PE_SU20_B5.dll
+E:\C#Program\SamplePE1\PESample\Q3_PE_SU20_B5\obj\Debug\Q3_PE_SU20_B5.pdb
