@@ -1,0 +1,10 @@
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\bin\Debug\FirstWindowsForms.exe
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\bin\Debug\FirstWindowsForms.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.csprojAssemblyReference.cache
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.Properties.Resources.resources
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.csproj.GenerateResource.cache
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.csproj.CoreCompileInputs.cache
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.exe
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\obj\Debug\FirstWindowsForms.LoginForm.resources
+E:\C#Program\WinForm\Module2_WindowsForm\FirstWindowsForms\bin\Debug\FirstWindowsForms.exe.config

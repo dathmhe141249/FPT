@@ -1,0 +1,9 @@
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.csprojAssemblyReference.cache
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.Form1.resources
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.Properties.Resources.resources
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.csproj.GenerateResource.cache
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.csproj.CoreCompileInputs.cache
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\bin\Debug\ExA.exe
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\bin\Debug\ExA.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.exe
+E:\C#Program\WinForm\Module2_WindowsForm\ExA\obj\Debug\ExA.pdb
