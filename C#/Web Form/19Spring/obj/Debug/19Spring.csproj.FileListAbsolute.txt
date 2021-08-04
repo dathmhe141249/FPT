@@ -1,0 +1,7 @@
+E:\C#Program\Web\FirstAsp.Net\19Spring\bin\19Spring.dll.config
+E:\C#Program\Web\FirstAsp.Net\19Spring\bin\19Spring.dll
+E:\C#Program\Web\FirstAsp.Net\19Spring\bin\19Spring.pdb
+E:\C#Program\Web\FirstAsp.Net\19Spring\obj\Debug\19Spring.csproj.AssemblyReference.cache
+E:\C#Program\Web\FirstAsp.Net\19Spring\obj\Debug\19Spring.csproj.CoreCompileInputs.cache
+E:\C#Program\Web\FirstAsp.Net\19Spring\obj\Debug\19Spring.dll
+E:\C#Program\Web\FirstAsp.Net\19Spring\obj\Debug\19Spring.pdb

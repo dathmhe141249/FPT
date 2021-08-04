@@ -1,0 +1,7 @@
+E:\C#Program\Web\FirstAsp.Net\ExA\bin\ExA.dll.config
+E:\C#Program\Web\FirstAsp.Net\ExA\bin\ExA.dll
+E:\C#Program\Web\FirstAsp.Net\ExA\bin\ExA.pdb
+E:\C#Program\Web\FirstAsp.Net\ExA\obj\Debug\ExA.csproj.AssemblyReference.cache
+E:\C#Program\Web\FirstAsp.Net\ExA\obj\Debug\ExA.csproj.CoreCompileInputs.cache
+E:\C#Program\Web\FirstAsp.Net\ExA\obj\Debug\ExA.dll
+E:\C#Program\Web\FirstAsp.Net\ExA\obj\Debug\ExA.pdb

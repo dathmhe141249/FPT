@@ -1,0 +1,7 @@
+E:\C#Program\Web\FirstAsp.Net\FirstApp\bin\FirstApp.dll.config
+E:\C#Program\Web\FirstAsp.Net\FirstApp\bin\FirstApp.dll
+E:\C#Program\Web\FirstAsp.Net\FirstApp\bin\FirstApp.pdb
+E:\C#Program\Web\FirstAsp.Net\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+E:\C#Program\Web\FirstAsp.Net\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+E:\C#Program\Web\FirstAsp.Net\FirstApp\obj\Debug\FirstApp.dll
+E:\C#Program\Web\FirstAsp.Net\FirstApp\obj\Debug\FirstApp.pdb

@@ -1,0 +1,7 @@
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\bin\AspNetDB.dll.config
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\bin\AspNetDB.dll
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\bin\AspNetDB.pdb
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\obj\Debug\AspNetDB.csproj.CoreCompileInputs.cache
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\obj\Debug\AspNetDB.dll
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\obj\Debug\AspNetDB.pdb
+E:\C#Program\Web\FirstAsp.Net\AspNetDB\obj\Debug\AspNetDB.csproj.AssemblyReference.cache
