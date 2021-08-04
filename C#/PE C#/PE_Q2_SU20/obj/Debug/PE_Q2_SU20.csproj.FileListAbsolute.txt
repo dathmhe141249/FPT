@@ -1,0 +1,10 @@
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\bin\Debug\PE_Q2_SU20.exe.config
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\bin\Debug\PE_Q2_SU20.exe
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\bin\Debug\PE_Q2_SU20.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.csproj.AssemblyReference.cache
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.Form1.resources
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.Properties.Resources.resources
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.csproj.GenerateResource.cache
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.csproj.CoreCompileInputs.cache
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.exe
+E:\C#Program\WinForm\Module2_WindowsForm\PE_Q2_SU20\obj\Debug\PE_Q2_SU20.pdb

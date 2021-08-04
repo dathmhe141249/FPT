@@ -1,0 +1,6 @@
+E:\C#Program\WinForm\Module2_WindowsForm\PE_SU20_Q3_B1\bin\PE_SU20_Q3_B1.dll.config
+E:\C#Program\WinForm\Module2_WindowsForm\PE_SU20_Q3_B1\bin\PE_SU20_Q3_B1.dll
+E:\C#Program\WinForm\Module2_WindowsForm\PE_SU20_Q3_B1\bin\PE_SU20_Q3_B1.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\PE_SU20_Q3_B1\obj\Debug\PE_SU20_Q3_B1.csproj.CoreCompileInputs.cache
+E:\C#Program\WinForm\Module2_WindowsForm\PE_SU20_Q3_B1\obj\Debug\PE_SU20_Q3_B1.dll
+E:\C#Program\WinForm\Module2_WindowsForm\PE_SU20_Q3_B1\obj\Debug\PE_SU20_Q3_B1.pdb
