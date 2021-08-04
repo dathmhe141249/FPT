@@ -1,0 +1,6 @@
+E:\C#Program\CSharpFundalmentals\IO_CSharp\bin\Debug\IO_CSharp.exe
+E:\C#Program\CSharpFundalmentals\IO_CSharp\bin\Debug\IO_CSharp.pdb
+E:\C#Program\CSharpFundalmentals\IO_CSharp\obj\Debug\IO_CSharp.csproj.CoreCompileInputs.cache
+E:\C#Program\CSharpFundalmentals\IO_CSharp\obj\Debug\IO_CSharp.exe
+E:\C#Program\CSharpFundalmentals\IO_CSharp\obj\Debug\IO_CSharp.pdb
+E:\C#Program\CSharpFundalmentals\IO_CSharp\obj\Debug\IO_CSharp.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C#Program\CSharpFundalmentals\RegexTryCatch\bin\Debug\RegexTryCatch.exe
+E:\C#Program\CSharpFundalmentals\RegexTryCatch\bin\Debug\RegexTryCatch.pdb
+E:\C#Program\CSharpFundalmentals\RegexTryCatch\obj\Debug\RegexTryCatch.csprojAssemblyReference.cache
+E:\C#Program\CSharpFundalmentals\RegexTryCatch\obj\Debug\RegexTryCatch.csproj.CoreCompileInputs.cache
+E:\C#Program\CSharpFundalmentals\RegexTryCatch\obj\Debug\RegexTryCatch.exe
+E:\C#Program\CSharpFundalmentals\RegexTryCatch\obj\Debug\RegexTryCatch.pdb
