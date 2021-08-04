@@ -1,0 +1,11 @@
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\bin\Debug\Sp2019B5.exe.config
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\bin\Debug\Sp2019B5.exe
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\bin\Debug\Sp2019B5.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.Form1.resources
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.Properties.Resources.resources
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.csproj.GenerateResource.cache
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.csproj.CoreCompileInputs.cache
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.exe
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.csproj.AssemblyReference.cache
+E:\C#Program\WinForm\Module2_WindowsForm\Sp2019B5\obj\Debug\Sp2019B5.FrmEdit.resources

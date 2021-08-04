@@ -1,0 +1,11 @@
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmCategories.resources
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\ProductManagement.csproj.GenerateResource.cache
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\C#Program\WinForm\Module2_WindowsForm\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmProduct.resources
