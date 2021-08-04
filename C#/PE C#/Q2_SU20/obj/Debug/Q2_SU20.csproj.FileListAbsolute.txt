@@ -1,0 +1,10 @@
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.csproj.AssemblyReference.cache
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.Properties.Resources.resources
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.TeachingSchedule.resources
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.csproj.GenerateResource.cache
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.csproj.CoreCompileInputs.cache
+E:\C#Program\SamplePE1\PESample\Q2_SU20\bin\Debug\Q2_SU20.exe.config
+E:\C#Program\SamplePE1\PESample\Q2_SU20\bin\Debug\Q2_SU20.exe
+E:\C#Program\SamplePE1\PESample\Q2_SU20\bin\Debug\Q2_SU20.pdb
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.exe
+E:\C#Program\SamplePE1\PESample\Q2_SU20\obj\Debug\Q2_SU20.pdb
