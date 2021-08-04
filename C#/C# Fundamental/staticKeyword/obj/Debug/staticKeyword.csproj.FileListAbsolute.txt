@@ -1,0 +1,6 @@
+E:\C#Program\CSharpFundalmentals\staticKeyword\bin\Debug\staticKeyword.exe
+E:\C#Program\CSharpFundalmentals\staticKeyword\bin\Debug\staticKeyword.pdb
+E:\C#Program\CSharpFundalmentals\staticKeyword\obj\Debug\staticKeyword.csprojAssemblyReference.cache
+E:\C#Program\CSharpFundalmentals\staticKeyword\obj\Debug\staticKeyword.csproj.CoreCompileInputs.cache
+E:\C#Program\CSharpFundalmentals\staticKeyword\obj\Debug\staticKeyword.exe
+E:\C#Program\CSharpFundalmentals\staticKeyword\obj\Debug\staticKeyword.pdb
