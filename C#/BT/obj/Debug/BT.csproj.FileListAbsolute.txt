@@ -1,0 +1,6 @@
+E:\C#Program\CSharpFundalmentals\BT\bin\Debug\BT.exe
+E:\C#Program\CSharpFundalmentals\BT\bin\Debug\BT.pdb
+E:\C#Program\CSharpFundalmentals\BT\obj\Debug\BT.csprojAssemblyReference.cache
+E:\C#Program\CSharpFundalmentals\BT\obj\Debug\BT.csproj.CoreCompileInputs.cache
+E:\C#Program\CSharpFundalmentals\BT\obj\Debug\BT.exe
+E:\C#Program\CSharpFundalmentals\BT\obj\Debug\BT.pdb
