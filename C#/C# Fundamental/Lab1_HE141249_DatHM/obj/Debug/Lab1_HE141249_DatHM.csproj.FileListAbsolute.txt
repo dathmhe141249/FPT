@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Labs\Lab1_HE141249_DatHM\bin\Debug\Lab1_HE141249_DatHM.exe
+C:\Users\admin\Desktop\Labs\Lab1_HE141249_DatHM\bin\Debug\Lab1_HE141249_DatHM.pdb
+C:\Users\admin\Desktop\Labs\Lab1_HE141249_DatHM\obj\Debug\Lab1_HE141249_DatHM.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Labs\Lab1_HE141249_DatHM\obj\Debug\Lab1_HE141249_DatHM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Labs\Lab1_HE141249_DatHM\obj\Debug\Lab1_HE141249_DatHM.exe
+C:\Users\admin\Desktop\Labs\Lab1_HE141249_DatHM\obj\Debug\Lab1_HE141249_DatHM.pdb
