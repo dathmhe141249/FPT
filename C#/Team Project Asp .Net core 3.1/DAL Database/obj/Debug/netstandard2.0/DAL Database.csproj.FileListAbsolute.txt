@@ -1,0 +1,45 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.AssemblyReference.cache
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\Uta95s-Movie-Website-dev\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.AssemblyReference.cache
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\Chien\Uta95s-Movie-Website\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\test1213123\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+E:\C#Program\test1213123\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\test1213123\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\test1213123\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.AssemblyReference.cache
+E:\C#Program\test1213123\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+E:\C#Program\test1213123\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+E:\C#Program\test1213123\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+E:\C#Program\test1213123\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\test1213123\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.AssemblyReference.cache
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+E:\C#Program\ProjectPRN292\Uta95s Movie Web - BETA 0.1 - 2507 - v2\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
